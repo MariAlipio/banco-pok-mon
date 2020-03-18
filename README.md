@@ -1,6 +1,6 @@
 # banco-pokémon
 Atividades da matéria de banco de dados
-
+Entrega para 17/03/2020
 
 --Exercicio 1
 use pokedex;
